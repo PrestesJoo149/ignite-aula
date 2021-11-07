@@ -7,7 +7,7 @@ export function App() {
     //return <h1>Hello Word João 🐋</h1>
     return (
         <>
-            <h1>Teste Hello Word João 🐋</h1>
+            <h1>Hello Word João 🐋</h1>
             <RepositoryList />
             <Counter />
         </>

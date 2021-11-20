@@ -2,5 +2,8 @@
     "cSpell.words": [
         "Entradas",
         "Saídas"
+    ],
+    "cSpell.enableFiletypes": [
+        "typescriptreact"
     ]
 }
